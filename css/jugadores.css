@@ -1,0 +1,23 @@
+.portero-1{
+ width: 250px;
+text-align: center;
+}
+
+.contenedor{
+    display: flex;
+  
+}  
+.defensas{
+flex-direction: column;
+
+}
+
+h1{
+    margin-left: 300px;
+    width: 80%;
+}
+
+h2, h3 , h4{
+    margin-left: 700px;
+}
+

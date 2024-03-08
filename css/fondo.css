@@ -1,0 +1,16 @@
+body {
+    background-image: url(../fondo/Fondo\ de\ la\ Web.jpg);
+    background-size: auto; /* Esto ajusta la imagen para que cubra todo el fondo */
+    background-position: center center; /* Esto la posiciona en el centro */
+    background-repeat: no-repeat; /* Esto evita que se repita la imagen */
+    height: auto;
+    width: auto;
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+}
+audio{
+    margin-top: auto;
+    margin-left: auto;
+}
